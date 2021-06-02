@@ -1,0 +1,2 @@
+# fishpkgs
+Bundled fish packages
