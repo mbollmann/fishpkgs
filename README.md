@@ -5,5 +5,5 @@ This is a drop-in replacement for all [fish](https://fishshell.com/) packages un
 Install with:
 
 ```
-fisher install mbollmann/fishpkgs
+fisher install mbollmann/fishpkgs@main
 ```
